@@ -424,14 +424,7 @@ Areas of Interest
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=hasib50&theme=dark&hide_border=true&border_radius=10&card_width=1000" />
-
-</div>
-
----
-<!-- GitHub Streak -->
-
-<img src="https://streak-stats.demolab.com/?user=hasib50&theme=transparent&hide_border=true&background=0D1117&ring=38BDF8&fire=0EA5E9&currStreakLabel=38BDF8&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" width="95%" alt="GitHub Contribution Streak"/>
+<img src="https://streak-stats.demolab.com?user=hasib50&theme=dark&hide_border=true&border_radius=10&card_width=1000" width="95%" alt="GitHub Contribution Streak"/>
 
 </div>
 
@@ -474,8 +467,6 @@ Areas of Interest
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasib50&theme=github_dark" width="95%" alt="GitHub Profile Summary"/>
 
 </div>
-
----
 
 ---
 
