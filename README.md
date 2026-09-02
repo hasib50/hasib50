@@ -408,19 +408,17 @@ Areas of Interest
 
 <!-- GitHub Stats -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=hasib50&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="95%" alt="Md. Al Hasib GitHub Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hasib50&theme=github_dark&title_color=38BDF8&text_color=CBD5E1&bg_color=0D1117&icon_color=0EA5E9" width="48%" alt="Md. Al Hasib GitHub Stats"/>
 
-<br/><br/>
+<!-- Top Languages -->
 
-<!-- Most Used Languages -->
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasib50&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="70%" alt="Most Used Languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hasib50&theme=github_dark&title_color=38BDF8&text_color=CBD5E1&bg_color=0D1117&icon_color=0EA5E9" width="48%" alt="Most Used Languages"/>
 
 <br/><br/>
 
 <!-- GitHub Streak -->
 
-<img src="https://streak-stats.demolab.com/?user=hasib50&theme=tokyonight&hide_border=true&border_radius=10" width="95%" alt="GitHub Contribution Streak"/>
+<img src="https://streak-stats.demolab.com/?user=hasib50&theme=dark&hide_border=true&background=0D1117&ring=38BDF8&fire=0EA5E9&currStreakLabel=38BDF8&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" width="95%" alt="GitHub Contribution Streak"/>
 
 </div>
 
