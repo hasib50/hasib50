@@ -1,290 +1,284 @@
-ami ark jon er code dicci same vabe amar ta banaba amar info diye
+<!-- ===================== HEADER ===================== -->
 
+<div align="center">
 
-<p align="center">
-  <img 
-    src="./banner/banner.png" 
-    alt="Md. Aminul Islam - Future Full Stack Developer"
-    alt="Aminul Islam - Future Full Stack Developer"
-    width="100%"
-  />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1e3a8a,100:0ea5e9&text=Md.%20Al%20Hasib&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Cybersecurity&descAlignY=58&descSize=18" width="100%"/>
 
-<h1 align="center">Hi 👋, I'm Aminul islam</h1>
-<h1 align="center">Hi 👋, I'm Aminul Islam</h1>
+<br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Future+Full+Stack+Developer;Building+Modern+Web+Applications;React+%7C+Next.js+%7C+TypeScript;JavaScript+%7C+Node.js+%7C+MongoDB;Creating+Scalable+Digital+Products;Clean+UI+%26+Modern+UX;Problem+Solver+%26+Developer"/>
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Future+Full+Stack+Developer;Building+Modern+Web+Applications;React+%7C+Next.js+%7C+TypeScript;JavaScript+%7C+Node.js+%7C+MongoDB;Creating+Scalable+Digital+Products;Clean+UI+%26+Modern+UX;Problem+Solver+%26+Developer"
-    alt="Typing SVG"
-  />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Full-Stack+Web+Developer;AI+%26+Machine+Learning+Enthusiast;Cybersecurity+Enthusiast;Cloud+Computing+Learner;Build+%E2%80%A2+Learn+%E2%80%A2+Secure+%E2%80%A2+Innovate" alt="Typing SVG"/>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=hasib50&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile Views"/>
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-Hi! I'm **Md. Aminul Islam**, a passionate **Future Full Stack Developer** from Bangladesh 🇧🇩.
-Hi! I'm **Aminul Islam**, a passionate **Future Full Stack Developer** from Bangladesh 🇧🇩.
+Hi! I'm **Md. Al Hasib**, a CSE graduate and aspiring software engineer from Bangladesh.
 
-- 🎓 Currently pursuing a **Diploma in Computer Science & Technology**
-- 💻 Building modern and responsive web applications
-@@ -27,79 +33,217 @@ Hi! I'm **Md. Aminul Islam**, a passionate **Future Full Stack Developer** from
+I'm currently focusing on **Full-Stack Web Development**, while building deeper expertise in **Artificial Intelligence, Machine Learning, Cybersecurity, and Cloud Computing**.
+
+- 🎓 BSc in Computer Science & Engineering
+- 🏫 Daffodil International University
+- 💻 Full-Stack Web Development — **Primary Focus**
+- 🤖 AI & Machine Learning — **Main Interest**
+- 🛡️ Cybersecurity — **Strong Interest**
+- ☁️ Cloud Computing — **Supporting Area**
+- 📚 Currently learning through Programming Hero
+- 🚀 Building projects and improving problem-solving skills
+- 🎯 Goal: Become a strong software engineer with expertise in AI-powered applications
 
 ---
 
-# 📫 Connect With Me
-## 🎯 Professional Objective
+# 🚀 My Current Focus
 
-I am a **Future Full Stack Developer** focused on building modern, scalable, and user-friendly web applications.
-
-Currently, I am strengthening my skills in **React, TypeScript, Next.js, Node.js, Express.js, and MongoDB** while improving my problem-solving abilities and software development practices.
-
-🎯 **Goal:** Become a professional Full Stack Developer and contribute to impactful software products.
+| Area | Focus |
+|---|---|
+| 💻 Full-Stack Development | ⭐ Primary |
+| 🤖 AI & Machine Learning | 🔥 Main Interest |
+| 🛡️ Cybersecurity | 🔥 Strong Interest |
+| ☁️ Cloud Computing | 📚 Supporting Area |
 
 ---
 
 # 🛠️ Tech Stack
 
-## 🎨 Frontend
+### 👨‍💻 Programming Languages
 
 <p align="center">
-  <a href="mailto:aminulislam424842@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" alt="Gmail"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/aminulislamjs/" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/aminulislamjs" height="40" width="30" /></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/aminulislamdev" target="_blank">
-    <img src="https://cdn.simpleicons.org/github/181717" width="40" alt="GitHub"/>
-  </a>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts" />
+
 </p>
 
-## ⚙️ Backend
+### 🌐 Full-Stack Development
 
-# 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,nodejs,express" />
+
 </p>
 
-## 🗄️ Database
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb" />
+
+<img src="https://img.shields.io/badge/REST%20API-111827?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/API%20Integration-0f172a?style=for-the-badge&logo=postman&logoColor=orange"/>
+<img src="https://img.shields.io/badge/DOM%20%26%20BOM-1e293b?style=for-the-badge&logo=javascript&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/AI%20Integration-172554?style=for-the-badge&logo=openai&logoColor=white"/>
+
 </p>
 
-## ☁️ Cloud & DevOps
+### 🗄️ Database
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,git,github" />
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+
+</p>
+
+### 🤖 AI & Machine Learning
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-0f172a?style=for-the-badge&logo=scikitlearn&logoColor=orange"/>
+
+</p>
+
+### 🛡️ Cybersecurity & Systems
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,bash" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Networking-0f172a?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/Web%20Security-172554?style=for-the-badge&logo=owasp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge&logo=hackthebox&logoColor=9fef00"/>
+
+</p>
+
+### ☁️ Cloud & DevOps
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,azure,firebase,docker,git,github,vscode" />
+
+</p>
+
+### 🎨 UI & Payment
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hero%20UI-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
+
 </p>
 
 ---
 
-## 📌 Current Focus
+# 📚 Currently Learning
 
-- ⚛️ Building scalable React applications
-- 🔷 Writing type-safe applications with TypeScript
-- ▲ Learning Next.js and modern React patterns
-- 🟢 Learning backend development with Node.js & Express.js
-- 🍃 Working with MongoDB
-- 🔐 Exploring authentication & authorization
-- 🚀 Learning REST APIs and full-stack architecture
-- 🧩 Improving problem-solving and clean code practices
+<p align="center">
 
----
+<img src="https://img.shields.io/badge/Programming%20Hero-FF6B35?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Advanced%20React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 
-## 💼 What I'm Learning to Build
-
-- 🌐 Responsive Web Applications
-- ⚛️ React-based Frontend Applications
-- 📊 Dashboard & Admin Panels
-- 🔐 Authentication Systems
-- 🛒 E-commerce Interfaces
-- 📝 Task Management Applications
-- 🤖 AI-powered Web Applications
-- 🔗 REST API-based Applications
+</p>
 
 ---
 
-## 🧠 Problem Solving
+# 🚀 Featured Projects
 
-I regularly practice programming problems to improve my:
+### 🛒 Garments Accessories E-Commerce
 
-## Frontend
-- 🧩 Logical thinking
-- 🔍 Problem-solving skills
-- ⚡ JavaScript fundamentals
-- 🔷 TypeScript concepts
-- 🧠 Algorithms & Data Structures
+A full-stack e-commerce platform for garments accessories with product management, authentication, database integration and payment functionality.
+
+**Tech:** React • Node.js • Express • MongoDB • Stripe
+
+---
+
+### 🤖 AI & Machine Learning Projects
+
+Exploring practical AI/ML projects involving computer vision, data analysis, prediction and intelligent applications.
+
+**Tech:** Python • TensorFlow • PyTorch • OpenCV • NumPy • Pandas
+
+---
+
+### 🔐 Cybersecurity Projects
+
+Learning and experimenting with networking, Linux, web security and cybersecurity fundamentals.
+
+---
+
+<p align="center">
+
+<a href="https://github.com/hasib50?tab=repositories">
+<img src="https://img.shields.io/badge/View%20All%20Repositories-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hasib50&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasib50&layout=compact&hide_border=true&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=hasib50&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hasib50&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=hasib50&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="95%"/>
+
+</div>
 
 ---
 
 # 🐍 Contribution Snake
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
-  <img 
-    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub Contribution Snake"
-  />
-</p>
-
-## Backend
----
-
-# 📊 GitHub Analytics
-
-## 📋 Profile Summary
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aminulislamdev&theme=tokyonight"
-    width="100%"
-    alt="GitHub Profile Summary"
-  />
-</p>
-
-## Databases
-## 🔤 Top Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb" />
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aminulislamdev&theme=tokyonight"
-    width="48%"
-    alt="Top Languages by Repository"
-  />
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aminulislamdev&theme=tokyonight"
-    width="48%"
-    alt="Top Languages by Commit"
-  />
-</p>
-
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aminulislamdev&theme=tokyonight"
-    width="48%"
-    alt="GitHub Statistics"
-  />
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aminulislamdev&theme=tokyonight&utcOffset=0"
-    width="48%"
-    alt="Productive Time UTC"
-  />
-</p>
-
-## Cloud & DevOps
-## 🔥 Contribution Streak
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=vercel,netlify" />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=aminulislamdev&theme=tokyonight&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
-</p>
-
----
-
-# 🐍 CONTRIBUTION SNAKE
-## 🎓 Education
-
 <div align="center">
-**Diploma in Computer Science & Technology**  
-Rajshahi Polytechnic Institute 🇧🇩
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-Currently focused on:
+<img src="https://raw.githubusercontent.com/hasib50/hasib50/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
 </div>
-- Web Development
-- Programming
-- Software Engineering
-- Full Stack Development
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aminulislamdev&show_icons=true&locale=en&layout=compact" alt="aminulislamdev" /></p>
-## 🤝 Open to Opportunities
+# 📌 GitHub Summary
 
-Currently focused on learning, building, and improving my development skills.
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aminulislamdev&show_icons=true&locale=en" alt="aminulislamdev" /></p>
-Open to:
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasib50&theme=tokyonight" width="95%"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aminulislamdev&" alt="aminulislamdev" /></p>
-- 🌱 Internship opportunities
-- 🤝 Open-source collaboration
-- 👥 Developer collaborations
-- 💼 Junior Developer opportunities
-- 🚀 Future Full Stack opportunities
+</div>
 
 ---
 
-## 📫 Connect With Me
+# 🌐 Connect With Me
 
-<p align="center">
-  <a href="mailto:aminulislam424842@gmail.com">
-    <img 
-      src="https://cdn.simpleicons.org/gmail/EA4335" 
-      width="40" 
-      alt="Gmail"
-    />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/aminulislamjs/" target="_blank">
-    <img 
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-      width="40" 
-      alt="LinkedIn"
-    />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/aminulislamdev" target="_blank">
-    <img 
-      src="https://cdn.simpleicons.org/github/181717" 
-      width="40" 
-      alt="GitHub"
-    />
-  </a>
-</p>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/alhasib5074">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/share/1cisxSiAQ7/">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://hasib50.github.io/portfolio-website1/">
+<img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="mailto:alhasib2345@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-# 📚 Learning Journey
+# 🧠 Developer Mindset
 
-```text
-HTML → CSS → JavaScript
-              ↓
-          TypeScript
-              ↓
-            React
-              ↓
-           Next.js
-              ↓
-      Node.js + Express
-              ↓
-           MongoDB
-              ↓
-       Full Stack Developer 🚀
+<div align="center">
 
-```
-                  ↓
-              TypeScript
-                  ↓
-                React
-                  ↓
-               Next.js
-                  ↓
-          Node.js + Express
-                  ↓
-               MongoDB
-                  ↓
-       Full Stack Developer 🚀
+### “Build. Learn. Secure. Innovate.”
+
+**Turning ideas into scalable software and intelligent solutions.**
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0ea5e9,50:1e3a8a,100:0f172a"/>
+
+</div>
