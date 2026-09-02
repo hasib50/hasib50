@@ -149,37 +149,128 @@ I'm currently focusing on **Full-Stack Web Development**, while building deeper 
 
 # 🚀 Featured Projects
 
-### 🛒 Garments Accessories E-Commerce
+<div align="center">
 
-A full-stack e-commerce platform for garments accessories with product management, authentication, database integration and payment functionality.
+## 🤟 Real-Time Sign Language Detection
+### 🎓 AI/ML Research & Thesis Project
 
-**Tech:** React • Node.js • Express • MongoDB • Stripe
+An AI-powered **real-time sign language detection system** using Computer Vision and YOLO-based object detection to recognize sign language gestures from live video.
 
----
+<br/>
 
-### 🤖 AI & Machine Learning Projects
+<img src="https://img.shields.io/badge/AI%20%26%20ML-0ea5e9?style=for-the-badge&logo=artificial-intelligence&logoColor=white"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-1e3a8a?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLO-FF6B35?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Real--Time%20Detection-0f172a?style=for-the-badge"/>
 
-Exploring practical AI/ML projects involving computer vision, data analysis, prediction and intelligent applications.
+</div>
 
-**Tech:** Python • TensorFlow • PyTorch • OpenCV • NumPy • Pandas
+### 🎯 Project Overview
 
----
+**Real-Time Sign Language Detection** is an AI/ML research project focused on detecting and recognizing sign language gestures from real-time video.
 
-### 🔐 Cybersecurity Projects
+The system uses **YOLO-based object detection**, Computer Vision and Deep Learning techniques to process video frames and identify sign language gestures in real time.
 
-Learning and experimenting with networking, Linux, web security and cybersecurity fundamentals.
+The project explores how AI-powered vision systems can contribute to more accessible and intelligent communication solutions.
 
----
+### ✨ Key Features
 
-<p align="center">
+- 🤟 Real-time sign language gesture detection
+- 🎥 Live video input processing
+- 🎯 YOLO-based object detection
+- 👁️ Computer Vision with OpenCV
+- 🧠 Deep Learning-based recognition
+- 📊 Dataset preparation and preprocessing
+- ⚡ Real-time prediction pipeline
+- 🔍 Gesture detection and classification
+- 🚀 Accessibility-focused AI application
 
-<a href="https://github.com/hasib50?tab=repositories">
-<img src="https://img.shields.io/badge/View%20All%20Repositories-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+### 🧠 ML Pipeline
 
-</p>
+Live Video
+     ↓
+Frame Extraction
+     ↓
+Image Preprocessing
+     ↓
+YOLO Detection
+     ↓
+Gesture Recognition
+     ↓
+Real-Time Prediction
+🛠️ Technologies
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" /> </p> <p align="center"> <img src="https://img.shields.io/badge/YOLO-Object%20Detection-FF6B35?style=for-the-badge"/> <img src="https://img.shields.io/badge/Computer%20Vision-0f172a?style=for-the-badge&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/Deep%20Learning-172554?style=for-the-badge"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> </p>
+📌 Project Details
+Component	Details
+🎓 Project Type	AI/ML Research & Thesis
+🤖 AI Domain	Computer Vision
+🎯 Detection Model	YOLO
+🎥 Input	Real-Time Video
+🧠 Core Technology	Deep Learning
+👁️ Vision Library	OpenCV
+🐍 Programming	Python
+📊 Data Processing	NumPy • Pandas
+🚀 Goal	Real-Time Sign Language Detection
 
----
+🔬 Status: Research / Development in Progress
+
+🐾 Pawsitive — A Sweet Home For Every Pet
+
+A modern pet adoption and management platform designed to help pets find loving homes while providing users with an easy and engaging way to discover and adopt pets.
+
+🎯 Project Overview
+
+Pawsitive is a web-based platform built around the idea that every pet deserves a loving home.
+
+The application provides an intuitive interface where users can explore available pets, view pet information and connect with the adoption process.
+
+✨ Key Features
+🐶 Pet adoption platform
+🐱 Browse available pets
+🔎 Pet search and discovery
+📋 Detailed pet information
+❤️ Adoption-focused user experience
+📱 Responsive and modern UI
+🔌 API-based data integration
+🎨 Clean and user-friendly design
+🛠️ Technologies
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Responsive%20Design-0ea5e9?style=for-the-badge"/> <img src="https://img.shields.io/badge/REST%20API-111827?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Modern%20UI-1e3a8a?style=for-the-badge"/> <img src="https://img.shields.io/badge/Pet%20Adoption-FF6B6B?style=for-the-badge"/> </p>
+📌 Project Highlights
+Component	Details
+🐾 Project Type	Pet Adoption Platform
+🌐 Application	Web Application
+🎨 Focus	UI/UX & User Experience
+🔎 Core Feature	Pet Discovery & Adoption
+📱 Design	Responsive
+🔌 Integration	REST API
+❤️ Purpose	Helping Pets Find Loving Homes
+🤖 AI & Machine Learning Projects
+
+Exploring practical Artificial Intelligence and Machine Learning solutions focused on computer vision, data analysis, prediction and intelligent applications.
+
+Areas of Interest
+🧠 Machine Learning
+👁️ Computer Vision
+🤖 Deep Learning
+📊 Data Analysis
+🎯 Object Detection
+🔮 Predictive Modeling
+⚡ AI-powered Applications
+
+Tech: Python • TensorFlow • PyTorch • OpenCV • NumPy • Pandas
+
+🔐 Cybersecurity Projects
+
+Exploring cybersecurity and system security through practical learning and experimentation.
+
+Areas of Interest
+🌐 Networking
+🐧 Linux & System Security
+🔐 Web Security
+🛡️ Cybersecurity Fundamentals
+🔎 Security Testing
+⚙️ Secure Application Development
+<div align="center"> <a href="https://github.com/hasib50?tab=repositories"> <img src="https://img.shields.io/badge/View%20All%20Repositories-0ea5e9?style=for-the-badge&logo=github&logoColor=white"/> </a> </div> ```
 
 # 📊 GitHub Analytics
 
