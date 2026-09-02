@@ -201,11 +201,12 @@ Learning and experimenting with networking, Linux, web security and cybersecurit
 
 ---
 
+
 # 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hasib50&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area_color=238636&area=true&hide_border=true" width="95%" alt="Contribution Activity Graph"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hasib50&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight" width="95%" alt="GitHub Contribution Statistics"/>
 
 </div>
 
