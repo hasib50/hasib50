@@ -399,34 +399,6 @@ Areas of Interest
 
 ---
 
-## 🧠 Engineering Focus
-
-``
-                ┌─────────────────────────┐
-                │    FULL-STACK WEB       │
-                │       DEVELOPMENT       │
-                └────────────┬────────────┘
-                             │
-          ┌──────────────────┼──────────────────┐
-          │                  │                  │
-          ▼                  ▼                  ▼
-     FRONTEND             BACKEND           DATABASE
-   React / Next.js      Node / Express     MongoDB / MySQL
-          │                  │                  │
-          └──────────────────┼──────────────────┘
-                             │
-                             ▼
-                  ┌─────────────────────┐
-                  │   AI INTEGRATION    │
-                  │   ML / CV / APIs    │
-                  └──────────┬──────────┘
-                             │
-                 ┌───────────┴───────────┐
-                 ▼                       ▼
-          CYBERSECURITY              CLOUD
-        Linux / Network          AWS / Azure
-        Web Security               Docker
-
 
 # 📊 GitHub Analytics
 
