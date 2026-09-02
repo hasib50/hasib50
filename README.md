@@ -205,7 +205,7 @@ Learning and experimenting with networking, Linux, web security and cybersecurit
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hasib50&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub Contribution Activity"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hasib50&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area_color=238636&area=true&hide_border=true" width="95%" alt="Contribution Activity Graph"/>
 
 </div>
 
