@@ -430,16 +430,6 @@ Areas of Interest
 
 ---
 
-# 📈 GitHub Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hasib50&bg_color=0D1117&color=38BDF8&line=0EA5E9&point=FFFFFF&area=true&area_color=0EA5E9&hide_border=true" width="100%" alt="GitHub Contribution Activity Graph"/>
-
-</div>
-
----
-
 # 🏆 GitHub Trophies
 
 <div align="center">
