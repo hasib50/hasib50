@@ -435,6 +435,20 @@ Areas of Interest
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=hasib50&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasib50&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=hasib50&theme=tokyonight&hide_border=true" width="70%" />
+
+</div>
+
 # 🏆 GitHub Trophies
 
 <div align="center">
