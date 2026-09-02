@@ -1,53 +1,47 @@
+ami ark jon er code dicci same vabe amar ta banaba amar info diye
+
+
 <p align="center">
-  <img
-    src="./banner/banner.png"
-    alt="Md. Al Hasib - Full Stack Web Developer"
+  <img 
+    src="./banner/banner.png" 
+    alt="Md. Aminul Islam - Future Full Stack Developer"
+    alt="Aminul Islam - Future Full Stack Developer"
     width="100%"
   />
 </p>
 
-<h1 align="center">Hi 👋, I'm Md. Al Hasib</h1>
+<h1 align="center">Hi 👋, I'm Aminul islam</h1>
+<h1 align="center">Hi 👋, I'm Aminul Islam</h1>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Future+Full+Stack+Developer;Building+Modern+Web+Applications;React+%7C+Next.js+%7C+TypeScript;JavaScript+%7C+Node.js+%7C+MongoDB;Creating+Scalable+Digital+Products;Clean+UI+%26+Modern+UX;Problem+Solver+%26+Developer"/>
 <p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=950&lines=Full+Stack+Web+Developer;Cybersecurity+Enthusiast;AI+%2F+ML+Enthusiast;Cloud+Computing+Explorer;React+%7C+Next.js+%7C+TypeScript;Node.js+%7C+MongoDB+%7C+REST+APIs;Building+Modern+Digital+Products;Learning+%E2%80%A2+Building+%E2%80%A2+Improving"
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Future+Full+Stack+Developer;Building+Modern+Web+Applications;React+%7C+Next.js+%7C+TypeScript;JavaScript+%7C+Node.js+%7C+MongoDB;Creating+Scalable+Digital+Products;Clean+UI+%26+Modern+UX;Problem+Solver+%26+Developer"
     alt="Typing SVG"
   />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hasib50&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Md. Al Hasib**, a Computer Science & Engineering graduate from Bangladesh 🇧🇩 with a strong interest in building modern and scalable software solutions.
+Hi! I'm **Md. Aminul Islam**, a passionate **Future Full Stack Developer** from Bangladesh 🇧🇩.
+Hi! I'm **Aminul Islam**, a passionate **Future Full Stack Developer** from Bangladesh 🇧🇩.
 
-My **primary focus is Full Stack Web Development**, while I am also exploring **Cybersecurity, Artificial Intelligence & Machine Learning, and Cloud Computing**.
-
-- 🎓 B.Sc. in Computer Science & Engineering
-- 🏫 Daffodil International University
-- 📅 Graduation: 2026
-- 💻 Primary Focus: Full Stack Web Development
-- 🔐 Exploring: Cybersecurity
-- 🤖 Learning: AI & Machine Learning
-- ☁️ Exploring: Cloud Computing
-- 📚 Currently learning through Programming Hero
-- 🧠 Improving problem-solving and software development skills
+- 🎓 Currently pursuing a **Diploma in Computer Science & Technology**
+- 💻 Building modern and responsive web applications
+@@ -27,79 +33,217 @@ Hi! I'm **Md. Aminul Islam**, a passionate **Future Full Stack Developer** from
 
 ---
 
-# 🎯 Professional Objective
+# 📫 Connect With Me
+## 🎯 Professional Objective
 
-I am focused on becoming a strong **Full Stack Web Developer** capable of designing, developing, and deploying modern web applications.
+I am a **Future Full Stack Developer** focused on building modern, scalable, and user-friendly web applications.
 
-My current priority is strengthening my skills in **React, Next.js, TypeScript, Node.js, Express.js, MongoDB, REST APIs, and modern frontend development**.
+Currently, I am strengthening my skills in **React, TypeScript, Next.js, Node.js, Express.js, and MongoDB** while improving my problem-solving abilities and software development practices.
 
-Alongside web development, I am building knowledge in **Cybersecurity, AI/ML, and Cloud Computing**.
-
-🎯 **Goal:** Build impactful real-world products and continuously grow as a software developer.
+🎯 **Goal:** Become a professional Full Stack Developer and contribute to impactful software products.
 
 ---
 
@@ -56,204 +50,241 @@ Alongside web development, I am building knowledge in **Cybersecurity, AI/ML, an
 ## 🎨 Frontend
 
 <p align="center">
+  <a href="mailto:aminulislam424842@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" alt="Gmail"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/aminulislamjs/" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/aminulislamjs" height="40" width="30" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/aminulislamdev" target="_blank">
+    <img src="https://cdn.simpleicons.org/github/181717" width="40" alt="GitHub"/>
+  </a>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 </p>
 
-**Technologies:**
-
-- HTML5
-- CSS3
-- JavaScript
-- TypeScript
-- React
-- Next.js
-- Tailwind CSS
-- DOM & BOM
-- Modern UI Development
-- API Integration
-
----
-
 ## ⚙️ Backend
 
+# 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-**Technologies:**
-
-- Node.js
-- Express.js
-- REST APIs
-- Authentication
-- Authorization
-- Server-side Development
-- API Integration
-
----
-
-## 🗄️ Databases
+## 🗄️ Database
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
-
-**Technologies:**
-
-- MongoDB
-- MySQL
-- Firebase
-- Database-driven Applications
-
----
-
-## 🤖 AI / Machine Learning
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
-</p>
-
-**Technologies & Areas:**
-
-- Python
-- TensorFlow
-- PyTorch
-- OpenCV
-- Pandas
-- NumPy
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- AI Integration
-
----
-
-## 🔐 Cybersecurity
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash" />
-</p>
-
-**Areas of Interest:**
-
-- Linux
-- Networking
-- Web Security
-- Authentication & Authorization
-- Secure Web Applications
-- Cybersecurity Fundamentals
-
----
 
 ## ☁️ Cloud & DevOps
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,firebase,docker,git,github" />
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,git,github" />
 </p>
 
-**Areas:**
-
-- Cloud Computing
-- AWS
-- Azure
-- Firebase
-- Docker
-- Deployment
-- DevOps Fundamentals
-
 ---
 
-# 📌 Current Focus
+## 📌 Current Focus
 
-- 💻 Full Stack Web Development
-- ⚛️ Building modern React applications
-- ▲ Learning advanced Next.js concepts
-- 🔷 Improving TypeScript skills
-- 🟢 Developing backend applications with Node.js & Express
+- ⚛️ Building scalable React applications
+- 🔷 Writing type-safe applications with TypeScript
+- ▲ Learning Next.js and modern React patterns
+- 🟢 Learning backend development with Node.js & Express.js
 - 🍃 Working with MongoDB
-- 🔐 Exploring Cybersecurity
-- 🤖 Learning Machine Learning
-- ☁️ Exploring Cloud Computing
-- 🚀 Building real-world projects
-- 🧠 Improving problem-solving skills
+- 🔐 Exploring authentication & authorization
+- 🚀 Learning REST APIs and full-stack architecture
+- 🧩 Improving problem-solving and clean code practices
 
 ---
 
-# 💼 What I Want to Build
+## 💼 What I'm Learning to Build
 
-- 🌐 Modern Full Stack Web Applications
+- 🌐 Responsive Web Applications
+- ⚛️ React-based Frontend Applications
 - 📊 Dashboard & Admin Panels
 - 🔐 Authentication Systems
-- 🛒 E-commerce Applications
-- 📝 Management Systems
+- 🛒 E-commerce Interfaces
+- 📝 Task Management Applications
 - 🤖 AI-powered Web Applications
-- 🔗 REST API Applications
-- 💳 Payment Integration
-- ☁️ Cloud-deployed Applications
-- 🛡️ Security-focused Applications
+- 🔗 REST API-based Applications
 
 ---
 
-# 🤟 Featured AI Project
+## 🧠 Problem Solving
 
-## Sign Language Detection Using Real-Time Video
+I regularly practice programming problems to improve my:
 
-A machine learning and computer vision based project focused on detecting sign language from real-time video.
-
-**Core Areas:**
-
-`Python` `Machine Learning` `Deep Learning` `OpenCV` `Computer Vision` `Real-Time Video`
-
----
-
-# 🧠 Problem Solving
-
-I continuously work on improving my programming and problem-solving abilities.
-
-### Focus Areas
-
-- 🧩 Logical Thinking
-- 🔍 Problem Solving
-- ⚡ Programming Fundamentals
+## Frontend
+- 🧩 Logical thinking
+- 🔍 Problem-solving skills
+- ⚡ JavaScript fundamentals
+- 🔷 TypeScript concepts
 - 🧠 Algorithms & Data Structures
-- 💻 Writing Clean Code
-- 🚀 Building Practical Solutions
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+  <img 
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+  />
+</p>
+
+## Backend
+---
+
+# 📊 GitHub Analytics
+
+## 📋 Profile Summary
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aminulislamdev&theme=tokyonight"
+    width="100%"
+    alt="GitHub Profile Summary"
+  />
+</p>
+
+## Databases
+## 🔤 Top Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb" />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aminulislamdev&theme=tokyonight"
+    width="48%"
+    alt="Top Languages by Repository"
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aminulislamdev&theme=tokyonight"
+    width="48%"
+    alt="Top Languages by Commit"
+  />
+</p>
+
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aminulislamdev&theme=tokyonight"
+    width="48%"
+    alt="GitHub Statistics"
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aminulislamdev&theme=tokyonight&utcOffset=0"
+    width="48%"
+    alt="Productive Time UTC"
+  />
+</p>
+
+## Cloud & DevOps
+## 🔥 Contribution Streak
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vercel,netlify" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=aminulislamdev&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+---
+
+# 🐍 CONTRIBUTION SNAKE
+## 🎓 Education
+
+<div align="center">
+**Diploma in Computer Science & Technology**  
+Rajshahi Polytechnic Institute 🇧🇩
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+Currently focused on:
+
+</div>
+- Web Development
+- Programming
+- Software Engineering
+- Full Stack Development
+
+---
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aminulislamdev&show_icons=true&locale=en&layout=compact" alt="aminulislamdev" /></p>
+## 🤝 Open to Opportunities
+
+Currently focused on learning, building, and improving my development skills.
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aminulislamdev&show_icons=true&locale=en" alt="aminulislamdev" /></p>
+Open to:
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aminulislamdev&" alt="aminulislamdev" /></p>
+- 🌱 Internship opportunities
+- 🤝 Open-source collaboration
+- 👥 Developer collaborations
+- 💼 Junior Developer opportunities
+- 🚀 Future Full Stack opportunities
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:aminulislam424842@gmail.com">
+    <img 
+      src="https://cdn.simpleicons.org/gmail/EA4335" 
+      width="40" 
+      alt="Gmail"
+    />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/aminulislamjs/" target="_blank">
+    <img 
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+      width="40" 
+      alt="LinkedIn"
+    />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/aminulislamdev" target="_blank">
+    <img 
+      src="https://cdn.simpleicons.org/github/181717" 
+      width="40" 
+      alt="GitHub"
+    />
+  </a>
+</p>
 
 ---
 
 # 📚 Learning Journey
 
 ```text
-                COMPUTER SCIENCE
-                       │
-                       ▼
-              Programming Basics
-                       │
-                       ▼
-                Web Development
-                       │
-                       ▼
-             JavaScript / TypeScript
-                       │
-                       ▼
-                    React
-                       │
-                       ▼
-                   Next.js
-                       │
-                       ▼
-             Node.js + Express
-                       │
-                       ▼
-              MongoDB / MySQL
-                       │
-                       ▼
-              Full Stack Development
-                       │
-             ┌─────────┼─────────┐
-             ▼         ▼         ▼
-       Cybersecurity   AI/ML    Cloud
-             │         │         │
-             └─────────┼─────────┘
-                       ▼
-                Software Engineer 🚀
+HTML → CSS → JavaScript
+              ↓
+          TypeScript
+              ↓
+            React
+              ↓
+           Next.js
+              ↓
+      Node.js + Express
+              ↓
+           MongoDB
+              ↓
+       Full Stack Developer 🚀
+
+```
+                  ↓
+              TypeScript
+                  ↓
+                React
+                  ↓
+               Next.js
+                  ↓
+          Node.js + Express
+                  ↓
+               MongoDB
+                  ↓
+       Full Stack Developer 🚀
