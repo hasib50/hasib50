@@ -1,486 +1,202 @@
-অবশ্যই 😎 নিচে **আরও বেশি cartoon + animation + futuristic** সহ পুরো `README.md` code দিলাম। সরাসরি তোমার `hasib50/hasib50` repository-এর `README.md`-তে বসাতে পারো।
-
-
-<!-- ===================================================== -->
-<!--                  Md. Al Hasib                         -->
-<!--          Animated GitHub Profile README               -->
-<!-- ===================================================== -->
-
 <div align="center">
 
-<!-- 🌌 ANIMATED CYBER HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Md.%20Al%20Hasib&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Cybersecurity%20%7C%20AI%2FML&descAlignY=62&descSize=17&color=0:050505,35:0B1628,70:12304A,100:00C6FF" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=Md.%20Al%20Hasib&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=FULL%20STACK%20WEB%20DEVELOPER%20%E2%80%A2%20CYBERSECURITY%20%E2%80%A2%20AI%2FML&descAlignY=62&descSize=17&color=0:050505,30:07111F,60:102A43,100:00C6FF" width="100%"/>
-
-<br>
-
-<!-- 🤖 CARTOON CODING ANIMATION -->
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00C6FF&center=true&vCenter=true&width=850&lines=Full+Stack+Web+Developer;Cybersecurity+Enthusiast;AI+%2F+ML+Enthusiast;Cloud+Computing+Explorer;Building+Modern+Digital+Experiences" />
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2200&pause=700&color=00C6FF&center=true&vCenter=true&width=900&lines=%3E+Initializing+Md.+Al+Hasib...;💻+Full+Stack+Web+Developer;🔐+Cybersecurity+Explorer;🤖+AI+%2F+ML+Enthusiast;☁️+Cloud+Computing+Explorer;🚀+Building+The+Future+With+Code" />
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=hasib50&label=PROFILE%20VISITORS&color=00C6FF&style=for-the-badge">
+<img src="https://komarev.com/ghpvc/?username=hasib50&label=PROFILE%20VIEWS&style=for-the-badge&color=00C6FF"/>
 
 </div>
 
 ---
 
-# 👋 Hello World! I'm **Md. Al Hasib**
+# 👨‍💻 Md. Al Hasib
 
 <div align="center">
 
-### 💻 Full Stack Developer  
-### 🔐 Cybersecurity Enthusiast  
-### 🤖 AI / ML Enthusiast  
-### ☁️ Cloud Computing Explorer
+### Full Stack Web Developer • Cybersecurity • AI/ML • Cloud
+
+**CSE Graduate | Daffodil International University | Bangladesh**
 
 </div>
 
+---
+
+## 🧠 Developer Overview
 
 
-## 🧑‍💻 About Me
+┌────────────────────────────────────────────────────────────┐
+│                     DEVELOPER PROFILE                      │
+├────────────────────────────────────────────────────────────┤
+│                                                            │
+│  PRIMARY FOCUS                                              │
+│  ████████████████████████████████████████  Full Stack      │
+│                                                            │
+│  SECURITY                                                   │
+│  ███████████████████████████████░░░░░░░░  Cybersecurity    │
+│                                                            │
+│  ARTIFICIAL INTELLIGENCE                                    │
+│  ███████████████████████████░░░░░░░░░░░  AI / ML          │
+│                                                            │
+│  CLOUD                                                      │
+│  █████████████████████████░░░░░░░░░░░░░  Cloud Computing   │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
+🎓 Education
 
+Daffodil International University
 
-╔══════════════════════════════════════════════════════╗
-║                    DEVELOPER.exe                     ║
-╠══════════════════════════════════════════════════════╣
-║                                                      ║
-║  👨‍💻 Name       : Md. Al Hasib                       ║
-║  🎓 Degree     : B.Sc. in CSE                        ║
-║  🏫 University : Daffodil International University  ║
-║  📍 Location   : Dhaka, Bangladesh                   ║
-║                                                      ║
-║  💻 Primary    : Full Stack Web Development          ║
-║  🔐 Secondary  : Cybersecurity                       ║
-║  🤖 Exploring  : AI / Machine Learning               ║
-║  ☁️ Exploring  : Cloud Computing                     ║
-║                                                      ║
-║  ⚡ Status     : Learning • Building • Improving     ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
+B.Sc. in Computer Science & Engineering
 
+Graduation: 2026
 
+💻 Primary Focus — Full Stack Development
+<div align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,mysql" /> </div>
+Development Stack
+Layer	Technologies
+Frontend	React • Next.js • TypeScript • JavaScript
+Styling	Tailwind CSS • Modern UI
+Backend	Node.js • Express.js
+Database	MongoDB • MySQL
+Integration	REST APIs • AI Integration • Stripe
+Tools	Git • GitHub • VS Code
+🔐 Cybersecurity
+<div align="center"> <img src="https://skillicons.dev/icons?i=linux,bash" /> </div>
+                 SECURITY STACK
 
+                       🔐
+                       │
+             ┌─────────┼─────────┐
+             │         │         │
+           Linux    Networking   Web
+             │         │         │
+             └─────────┼─────────┘
+                       │
+              Authentication
+                       │
+                       ▼
+               Secure Applications
 
-# 🎯 My Developer Mission
+Areas of Interest
 
+Linux Networking Web Security Authentication Secure Applications
+
+🤖 AI / Machine Learning
+<div align="center"> <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" /> </div>
+AI DEVELOPMENT PIPELINE
+
+Data
+ │
+ ▼
+Pandas / NumPy
+ │
+ ▼
+Machine Learning
+ │
+ ▼
+Deep Learning
+ │
+ ▼
+Computer Vision
+ │
+ ▼
+Real-Time Applications
+Featured Project
+
+Sign Language Detection Using Real-Time Video
+
+Computer Vision • Machine Learning • Deep Learning • Real-Time Video
+
+☁️ Cloud & DevOps
+<div align="center"> <img src="https://skillicons.dev/icons?i=aws,azure,firebase,docker,linux" /> </div>
+Development
+     │
+     ▼
+Docker
+     │
+     ▼
+Cloud Infrastructure
+     │
+     ├── AWS
+     ├── Azure
+     └── Firebase
+     │
+     ▼
+Deployment
+🛠️ Technology Radar
 <div align="center">
-
-
-              🚀 MY MISSION 🚀
-
-        ┌─────────────────────────┐
-        │     BUILD & CREATE      │
-        └────────────┬────────────┘
-                     │
-          ┌──────────┼──────────┐
-          ▼          ▼          ▼
-       💻 WEB     🔐 SECURITY   🤖 AI
-          │          │          │
-          └──────────┼──────────┘
-                     ▼
-               ☁️ CLOUD
-                     │
-                     ▼
-              🌎 REAL WORLD
-                 PROJECTS
-
-
-</div>
-
-
-
-# 💻 Full Stack Web Development
-
-> ⭐ **My PRIMARY focus**
-
-<div align="center">
-
-### 🎨 Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
-
-<br><br>
-
-### ⚙️ Backend
-
+Languages
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,typescript" />
+Frontend
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-<br><br>
-
-### 🗄️ Database
-
+Database
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
-
-</div>
-
-### 🚀 I Love Building
-
-
-🌐 Responsive Websites
-⚡ Full Stack Applications
-🔌 REST APIs
-🤖 AI Powered Websites
-💳 Payment Integration
-🗄️ Database Applications
-🎨 Modern UI
-📱 Responsive Interfaces
-🚀 Production Ready Apps
-
-
-
-# 🔐 Cybersecurity Zone
-
-<div align="center">
-
-
-       🔐 SECURITY SYSTEM
-              │
-      ┌───────┴────────┐
-      │                │
-   🐧 LINUX        🌐 NETWORK
-      │                │
-      └───────┬────────┘
-              │
-        🛡️ WEB SECURITY
-              │
-       🔑 AUTHENTICATION
-              │
-          🔒 SECURE APPS
-
-
-</div>
-
-### Currently Exploring
-
-* 🐧 Linux
-* 🌐 Networking
-* 🔐 Web Security
-* 🛡️ Security Fundamentals
-* 🔑 Authentication & Authorization
-* 🌍 Secure Web Applications
-
-
-
-# 🤖 AI / Machine Learning Lab
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="300">
-
-<br>
-
-### 🧠 `AI_CORE.exe`
-
-</div>
-
-
-          🤖 AI SYSTEM
-
-             ↓
-
-      🧠 Machine Learning
-
-             ↓
-
-       🔬 Deep Learning
-
-             ↓
-
-       👁️ Computer Vision
-
-             ↓
-
-        📊 Data Analysis
-
-             ↓
-
-       🎥 Real-Time AI
-
-             ↓
-
-          🚀 FUTURE
-
-
-### 🧰 AI / ML Tools
-
-<div align="center">
-
+AI / ML
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
-
-</div>
-
-### 🤟 Featured AI Project
-
-**Sign Language Detection Using Real-Time Video**
-
-
-🎥 Camera
-   ↓
-🖼️ Video Frames
-   ↓
-👁️ Computer Vision
-   ↓
-🧠 ML Model
-   ↓
-🤟 Sign Detection
-   ↓
-📺 Real-Time Result
-
-
-
-
-# ☁️ Cloud Computing
-
+DevOps & Tools
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" /> </div>
+📊 GitHub Analytics
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hasib50&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github" height="190"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasib50&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" height="190"/> </div>
+🔥 Contribution Streak
+<div align="center"> <img src="https://streak-stats.demolab.com?user=hasib50&theme=tokyonight&hide_border=true&border_radius=12" width="80%"/> </div>
+📈 Contribution Activity
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasib50&bg_color=0D1117&color=00C6FF&line=00C6FF&point=FFFFFF&area=true&hide_border=true&radius=12" width="95%"/> </div>
+🐍 Contribution Graph
+<div align="center"> <img src="https://raw.githubusercontent.com/hasib50/hasib50/output/github-contribution-grid-snake-dark.svg" width="95%"/> </div>
+🏆 GitHub Achievements
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=hasib50&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" width="95%"/> </div>
+📌 Development Metrics
 <div align="center">
-
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350">
-
+Metric	Focus
+💻	Full Stack Development
+🔐	Cybersecurity
+🤖	Artificial Intelligence
+📊	Machine Learning
+☁️	Cloud Computing
+🚀	Real-World Projects
 </div>
+📚 Currently Learning
+<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2200&pause=700&color=00C6FF&center=true&vCenter=true&width=800&lines=Programming+Hero;Advanced+Full+Stack+Development;Machine+Learning;AI+Integration;Cloud+%26+Deployment" /> </div>
+🎯 2026 Roadmap
+                 2026 DEVELOPMENT ROADMAP
 
+Q1 ──────────────── Q2 ──────────────── Q3 ──────────────── Q4
 
-☁️ CLOUD JOURNEY
-
-AWS ───────┐
-Azure ─────┤
-Firebase ──┼──→ 🚀 Deployment
-Docker ────┤
-Linux ─────┘
-
-
-# 🧩 My Skill Universe
-
+Full Stack           Advanced Web        Cybersecurity       Production
+Development          Applications       Fundamentals       Projects
+    │                     │                   │                  │
+    ▼                     ▼                   ▼                  ▼
+ React                 Next.js             Linux              Deployment
+ Node.js               APIs                Network            Docker
+ MongoDB               TypeScript          Web Security       Cloud
+🚀 Current Goals
 <div align="center">
-
-### 👨‍💻 Programming
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts" />
-
-<br><br>
-
-### 🌐 Web Development
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind" />
-
-<br><br>
-
-### 🗄️ Database
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
-
-<br><br>
-
-### 🤖 AI / ML
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
-
-<br><br>
-
-### 🛠️ Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,bash" />
-
+FULL STACK DEVELOPMENT   ████████████████████████░░  90%
+CYBERSECURITY             █████████████████░░░░░░░  70%
+AI / MACHINE LEARNING     ████████████████░░░░░░░░  65%
+CLOUD COMPUTING           █████████████░░░░░░░░░░░  55%
 </div>
-
-
-
-# 🎓 Education
-
+📂 Featured Work
 <div align="center">
+🤟 Sign Language Detection
 
-### 🏫 Daffodil International University
+Real-Time Video • Computer Vision • Machine Learning
 
-🎓 **B.Sc. in Computer Science & Engineering**
+🌐 Full Stack Applications
 
-📅 **Graduation: 2026**
+React • Next.js • Node.js • MongoDB
+
+🔐 Security Projects
+
+Linux • Networking • Web Security
 
 </div>
-
-
-
-# 📚 Currently Learning
-
+🌐 Connect
+<div align="center"> <a href="https://github.com/hasib50"> <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/alhasib5074"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://hasib50.github.io/portfolio-website1/"> <img src="https://img.shields.io/badge/Portfolio-00C6FF?style=for-the-badge&logo=google-chrome&logoColor=white"/> </a> <a href="mailto:alhasib2345@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div>
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2000&pause=500&color=00C6FF&center=true&vCenter=true&width=800&lines=Programming+Hero+%F0%9F%92%BB;Machine+Learning+%F0%9F%A4%96;Full+Stack+Development+%F0%9F%9A%80;Building+Real+World+Projects+%F0%9F%94%A5" />
-
-</div>
-
-
-
-# 🕹️ Developer Console
-
-
-╭────────────────────────────────────────────────────╮
-│                 HASIB@GITHUB:~$                    │
-├────────────────────────────────────────────────────┤
-│                                                    │
-│  $ whoami                                          │
-│  > Full Stack Developer                            │
-│                                                    │
-│  $ focus                                           │
-│  > Web Development                                 │
-│                                                    │
-│  $ explore                                         │
-│  > Cybersecurity                                   │
-│  > Artificial Intelligence                         │
-│  > Machine Learning                                │
-│  > Cloud Computing                                 │
-│                                                    │
-│  $ status                                           │
-│  > 🚀 BUILDING                                     │
-│                                                    │
-│  $ next                                             │
-│  > MORE PROJECTS                                   │
-│                                                    │
-╰────────────────────────────────────────────────────╯
-
-
-
-
-# 📊 GitHub Power Station
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=hasib50&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="180">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasib50&layout=compact&theme=tokyonight&hide_border=true" height="180">
-
-</div>
-
-
-
-# 🔥 Coding Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=hasib50&theme=tokyonight&hide_border=true&border_radius=15" width="80%">
-
-</div>
-
-
-
-# 📈 Contribution Galaxy
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hasib50&theme=tokyo-night&hide_border=true&area=true&radius=15" width="95%">
-
-</div>
-
-
-
-# 🐍 My Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/hasib50/hasib50/output/github-contribution-grid-snake-dark.svg" width="95%">
-
-</div>
-
-
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=hasib50&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="95%">
-
-</div>
-
-
-
-# 🚀 2026 Mission
-
-<div align="center">
-
-
-             🚀 LEVEL UP 2026 🚀
-
-        ┌────────────────────────────┐
-        │ ████████████████████ 100%  │
-        │ Full Stack Development     │
-        └────────────────────────────┘
-
-        ┌────────────────────────────┐
-        │ ███████████████░░░░░  75%  │
-        │ Cybersecurity              │
-        └────────────────────────────┘
-
-        ┌────────────────────────────┐
-        │ █████████████░░░░░░░  65%  │
-        │ AI / Machine Learning      │
-        └────────────────────────────┘
-
-        ┌────────────────────────────┐
-        │ ███████████░░░░░░░░░  55%  │
-        │ Cloud Computing            │
-        └────────────────────────────┘
-
-
-</div>
-
-
-
-# 📂 Projects
-
-<div align="center">
-
-### 🚧 BUILDING THE NEXT THING...
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=500&color=00C6FF&center=true&vCenter=true&width=700&lines=🌐+Full+Stack+Projects;🤖+AI%2FML+Projects;🔐+Cybersecurity+Projects;🚀+More+Coming+Soon..." />
-
-</div>
-
-
-# 🌐 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/hasib50">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/alhasib5074">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://www.facebook.com/share/1cisxSiAQ7/">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
-</a>
-
-<a href="https://hasib50.github.io/portfolio-website1/">
-<img src="https://img.shields.io/badge/Portfolio-00C6FF?style=for-the-badge&logo=google-chrome&logoColor=white">
-</a>
-
-<a href="mailto:alhasib2345@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-</div>
-
-
-
-# 💙 Thanks For Visiting!
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=800&color=00C6FF&center=true&vCenter=true&width=800&lines=Code+%E2%80%A2+Create+%E2%80%A2+Secure+%E2%80%A2+Innovate;See+You+In+The+Next+Commit!+%F0%9F%9A%80" />
-
-<br><br>
-
-⭐ **If you like my work, consider giving my repositories a star!** ⭐
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:050505,35:07111F,70:102A43,100:00C6FF" width="100%">
-
-</div>
-
-
-
+BUILD • LEARN • SECURE • INNOVATE
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:050505,35:0B1628,70:12304A,100:00C6FF" width="100%"/> </div> 
