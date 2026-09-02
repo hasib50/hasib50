@@ -280,6 +280,154 @@ Areas of Interest
 ⚙️ Secure Application Development
 <div align="center"> <a href="https://github.com/hasib50?tab=repositories"> <img src="https://img.shields.io/badge/View%20All%20Repositories-0ea5e9?style=for-the-badge&logo=github&logoColor=white"/> </a> </div> ```
 
+---
+
+## 🧭 Full-Stack Engineering Roadmap & Progression
+
+| Domain / Milestone | Core Technologies & Focus Areas | Progression | Status |
+|:---|:---|:---:|:---:|
+| **Web Fundamentals & UI** | HTML5, CSS3, Responsive Design, Tailwind CSS, DOM & BOM | `██████████ 100%` | ![Strong](https://img.shields.io/badge/Strong-0ea5e9?style=flat-square) |
+| **JavaScript & Modern Web** | ES6+, Array Methods, DOM, Async/Await, Fetch API, API Integration | `████████░░ 80%` | ![Active Focus](https://img.shields.io/badge/Active%20Focus-0ea5e9?style=flat-square) |
+| **React & Frontend Architecture** | React, Components, Hooks, React Router, Forms, State Management | `███████░░░ 70%` | ![Active Focus](https://img.shields.io/badge/Active%20Focus-0ea5e9?style=flat-square) |
+| **Backend & REST APIs** | Node.js, Express.js, REST API, Middleware, Authentication | `█████░░░░░ 50%` | ![In Progress](https://img.shields.io/badge/In%20Progress-0284C7?style=flat-square) |
+| **Database & Data Layer** | MongoDB, MySQL, CRUD, Database Design & Data Modeling | `█████░░░░░ 50%` | ![In Progress](https://img.shields.io/badge/In%20Progress-0284C7?style=flat-square) |
+| **Authentication & Security** | Firebase Auth, JWT, Networking, Linux, Web Security | `████░░░░░░ 40%` | ![Learning](https://img.shields.io/badge/Learning-0369A1?style=flat-square) |
+| **Full-Stack Applications** | MERN Stack, API Integration, AI Integration, Stripe | `████░░░░░░ 40%` | ![Building](https://img.shields.io/badge/Building-0EA5E9?style=flat-square) |
+| **Next-Gen Web Architecture** | Next.js, TypeScript, SSR, Modern Web Architecture | `███░░░░░░░ 30%` | ![Planned](https://img.shields.io/badge/Planned-475569?style=flat-square) |
+| **Cloud & DevOps** | AWS, Azure, Firebase, Docker, Deployment & CI/CD | `███░░░░░░░ 30%` | ![Exploring](https://img.shields.io/badge/Exploring-334155?style=flat-square) |
+
+<details>
+<summary><b>🔍 View Detailed Learning Progression & Topics</b></summary>
+
+<br/>
+
+### Phase 1: Web Fundamentals & UI Architecture
+
+- [x] Semantic HTML5 & Modern Page Structure
+- [x] CSS3 Fundamentals
+- [x] Flexbox & CSS Grid
+- [x] Responsive Web Design
+- [x] Tailwind CSS
+- [x] DOM & BOM
+- [x] Git & GitHub Fundamentals
+
+### Phase 2: JavaScript & Modern Web Development
+
+- [x] JavaScript Fundamentals
+- [x] ES6+ Syntax
+- [x] Functions, Scope & Closures
+- [x] Array Methods — `map`, `filter`, `reduce`, `find`
+- [x] DOM Manipulation
+- [x] Event Handling
+- [x] Async/Await
+- [x] Promises
+- [x] Fetch API
+- [x] REST API Integration
+- [ ] Advanced JavaScript Architecture
+
+### Phase 3: React & Frontend Engineering — Active Focus
+
+- [x] React Components & JSX
+- [x] Props & Component Communication
+- [x] `useState` & `useEffect`
+- [x] React Router
+- [x] Form Handling
+- [x] API Integration
+- [ ] Advanced React Patterns
+- [ ] Global State Management
+- [ ] TanStack Query
+- [ ] Performance Optimization
+
+### Phase 4: Backend & Database Engineering — Active Focus
+
+- [x] Node.js Fundamentals
+- [x] NPM Ecosystem
+- [ ] Express.js Architecture
+- [ ] RESTful API Development
+- [ ] Custom Middleware
+- [ ] MongoDB Database Design
+- [ ] MySQL Database Management
+- [ ] CRUD Operations
+- [ ] Advanced Data Modeling
+- [ ] API Error Handling
+
+### Phase 5: Authentication & Secure Applications
+
+- [x] Basic Web Security Concepts
+- [x] Networking Fundamentals
+- [x] Linux Fundamentals
+- [ ] Firebase Authentication
+- [ ] JWT Authentication
+- [ ] Role-Based Access Control
+- [ ] Secure API Development
+- [ ] OWASP Web Security Fundamentals
+
+### Phase 6: AI-Powered Full-Stack Development
+
+- [x] Python for AI/ML
+- [x] NumPy & Pandas
+- [x] OpenCV
+- [x] TensorFlow
+- [x] PyTorch
+- [x] Computer Vision Fundamentals
+- [ ] AI API Integration
+- [ ] AI-Powered Web Applications
+- [ ] Production AI Integration
+
+### Phase 7: Production & Cloud Engineering
+
+- [ ] Next.js
+- [ ] TypeScript
+- [ ] Docker
+- [ ] AWS
+- [ ] Azure
+- [ ] CI/CD Pipelines
+- [ ] Production Deployment
+- [ ] Scalable Cloud Architecture
+
+</details>
+
+---
+
+## 🚀 Featured Repositories
+
+| Repository | Description | Stack | Link |
+|:---|:---|:---|:---:|
+| **Real-Time-Sign-Language-Detection** | AI-powered real-time sign language detection using Computer Vision and YOLO | `Python` `OpenCV` `YOLO` | [Repository →](https://github.com/hasib50) |
+| **Pawsitive** | Modern pet adoption and management platform with responsive UI and API integration | `React` `JavaScript` `Tailwind CSS` | [Repository →](https://github.com/hasib50) |
+| **More Projects** | More web development, AI/ML and software engineering projects | `Full-Stack` `AI/ML` | [View All →](https://github.com/hasib50?tab=repositories) |
+
+---
+
+## 🧠 Engineering Focus
+
+``
+                ┌─────────────────────────┐
+                │    FULL-STACK WEB       │
+                │       DEVELOPMENT       │
+                └────────────┬────────────┘
+                             │
+          ┌──────────────────┼──────────────────┐
+          │                  │                  │
+          ▼                  ▼                  ▼
+     FRONTEND             BACKEND           DATABASE
+   React / Next.js      Node / Express     MongoDB / MySQL
+          │                  │                  │
+          └──────────────────┼──────────────────┘
+                             │
+                             ▼
+                  ┌─────────────────────┐
+                  │   AI INTEGRATION    │
+                  │   ML / CV / APIs    │
+                  └──────────┬──────────┘
+                             │
+                 ┌───────────┴───────────┐
+                 ▼                       ▼
+          CYBERSECURITY              CLOUD
+        Linux / Network          AWS / Azure
+        Web Security               Docker
+
+
 # 📊 GitHub Analytics
 
 <div align="center">
