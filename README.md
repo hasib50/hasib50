@@ -406,13 +406,21 @@ Areas of Interest
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hasib50&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<!-- GitHub Stats -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasib50&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=hasib50&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="95%" alt="Md. Al Hasib GitHub Stats"/>
 
-<br><br>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=hasib50&theme=tokyonight&hide_border=true" width="70%" />
+<!-- Most Used Languages -->
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasib50&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="70%" alt="Most Used Languages"/>
+
+<br/><br/>
+
+<!-- GitHub Streak -->
+
+<img src="https://streak-stats.demolab.com/?user=hasib50&theme=tokyonight&hide_border=true&border_radius=10" width="95%" alt="GitHub Contribution Streak"/>
 
 </div>
 
