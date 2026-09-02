@@ -202,11 +202,15 @@ Learning and experimenting with networking, Linux, web security and cybersecurit
 ---
 
 
-# 📈 Contribution Activity
+# 📈 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hasib50&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight" width="95%" alt="GitHub Contribution Statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hasib50&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=tokyonight" width="95%" alt="GitHub Activity Statistics"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hasib50&theme=tokyonight&hide_border=true" width="95%" alt="GitHub Contribution Streak"/>
 
 </div>
 
