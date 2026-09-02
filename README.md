@@ -400,49 +400,60 @@ Areas of Interest
 ---
 
 
-# 📊 GitHub Analytics
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hasib50&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight"/>
+<!-- GitHub Stats + Most Used Languages -->
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasib50&layout=compact&hide_border=true&langs_count=8&theme=tokyonight"/>
+<table>
+<tr>
 
-</div>
+<td width="50%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=hasib50&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1&icon_color=0EA5E9&rank_icon=github" width="100%" alt="Md. Al Hasib GitHub Stats"/>
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasib50&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1&icon_color=0EA5E9" width="100%" alt="Most Used Languages"/>
+
+</td>
+
+</tr>
+</table>
 
 <br/>
 
-<div align="center">
+<!-- GitHub Streak -->
 
-<img src="https://streak-stats.demolab.com?user=hasib50&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-
-# 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=hasib50&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=tokyonight" width="95%" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hasib50&theme=tokyonight&hide_border=true" width="95%" alt="GitHub Contribution Streak"/>
+<img src="https://streak-stats.demolab.com/?user=hasib50&theme=transparent&hide_border=true&background=0D1117&ring=38BDF8&fire=0EA5E9&currStreakLabel=38BDF8&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" width="95%" alt="GitHub Contribution Streak"/>
 
 </div>
 
 ---
 
+# 📈 GitHub Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hasib50&bg_color=0D1117&color=38BDF8&line=0EA5E9&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Contribution Activity Graph"/>
+
+</div>
+
+---
 
 # 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.screw-hand.vercel.app/?username=hasib50&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" width="95%" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.screw-hand.vercel.app/?username=hasib50&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1" width="95%" alt="GitHub Trophies"/>
 
 </div>
+
 ---
 
 # 🐍 Contribution Snake
@@ -455,13 +466,15 @@ Areas of Interest
 
 ---
 
-# 📌 GitHub Summary
+# 📌 GitHub Profile Summary
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasib50&theme=tokyonight" width="95%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasib50&theme=github_dark" width="95%" alt="GitHub Profile Summary"/>
 
 </div>
+
+---
 
 ---
 
