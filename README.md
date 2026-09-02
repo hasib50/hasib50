@@ -225,7 +225,7 @@ Learning and experimenting with networking, Linux, web security and cybersecurit
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/hasib50/hasib50/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/hasib50/hasib50/output/github-contribution-grid-snake.svg" width="95%"/>
 
 </div>
 
