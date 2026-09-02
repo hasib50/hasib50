@@ -297,7 +297,7 @@ Areas of Interest
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hasib50&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=tokyonight" width="95%" alt="GitHub Activity Statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hasib50&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=tokyonight" width="95%" />
 
 <br/><br/>
 
