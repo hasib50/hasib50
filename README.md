@@ -408,13 +408,13 @@ Areas of Interest
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hasib50&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&custom_title=Md.%20Al%20Hasib's%20GitHub%20Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=hasib50&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&custom_title=Md.%20Al%20Hasib's%20GitHub%20Stats&title_color=38BDF8&icon_color=0EA5E9&text_color=CBD5E1&bg_color=0D1117" />
 
 </td>
 
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasib50&layout=compact&theme=dark&hide_border=true&langs_count=8&custom_title=Most%20Used%20Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasib50&layout=compact&theme=github_dark&hide_border=true&langs_count=8&custom_title=Most%20Used%20Languages&title_color=38BDF8&text_color=CBD5E1&bg_color=0D1117" />
 
 </td>
 </tr>
@@ -424,7 +424,7 @@ Areas of Interest
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=hasib50&theme=dark&hide_border=true&border_radius=10&card_width=1000" width="95%" alt="GitHub Contribution Streak"/>
+<img src="https://streak-stats.demolab.com/?user=hasib50&theme=transparent&hide_border=true&background=0D1117&ring=38BDF8&fire=0EA5E9&currStreakLabel=38BDF8&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" width="95%" alt="GitHub Contribution Streak"/>
 
 </div>
 
@@ -434,7 +434,7 @@ Areas of Interest
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hasib50&bg_color=0D1117&color=38BDF8&line=0EA5E9&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Contribution Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hasib50&bg_color=0D1117&color=38BDF8&line=0EA5E9&point=FFFFFF&area=true&area_color=0EA5E9&hide_border=true" width="100%" alt="GitHub Contribution Activity Graph"/>
 
 </div>
 
