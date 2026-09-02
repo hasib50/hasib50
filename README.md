@@ -2,6 +2,14 @@
 
 <div align="center">
 
+<img src="./Banner/Hasib_Banner.png" width="100%" alt="Md. Al Hasib GitHub Banner"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1e3a8a,100:0ea5e9&text=Md.%20Al%20Hasib&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Cybersecurity&descAlignY=58&descSize=18" width="100%"/>
 
 <br/>
