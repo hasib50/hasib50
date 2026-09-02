@@ -26,7 +26,7 @@ My primary focus is **Full Stack Web Development**, while I'm also actively expl
 
 Currently, I'm strengthening my development skills through the **Programming Hero** course while learning **Machine Learning** alongside it.
 
-```text
+
 💻 Full Stack Web Development     ████████████████████  PRIMARY
 🔐 Cybersecurity                  █████████████████░░░  STRONG
 🤖 AI / Machine Learning          ███████████████░░░░░  EXPLORING
